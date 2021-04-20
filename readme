@@ -1,0 +1,4 @@
+Fabryka (Factory)
+Wzorzec ten można kreacyjny spotkać pod dwiema postaciami fabryka abstrakcyjna (abstract factory) i metoda wytwórcza (factory method)
+
+Fabryka i wszelkie jej odmiany służą temu, aby odciąć się od podawania konkretnego typu. Zamiast tego, wykorzystana zostaje tzw. metoda fabrykująca zwracająca instancję, która nas interesuje.
